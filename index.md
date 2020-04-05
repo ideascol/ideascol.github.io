@@ -1,5 +1,5 @@
-# Ideas COL
+![IdeasCOL](https://ideascol.github.io/assets/logo.png "Logo")
 ¿Quiénes somos?
-## Lina M. Ramírez
+## Lina Ramirez
 ## Meili Vanegas-Hernandez
 ## Juan Camilo Chaves
