@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Archia";
+    src: url("./Archia-Light.otf") format("opentype");
+}
+
+html {
+  font-family: Archia !important;
+}
