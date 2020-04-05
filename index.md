@@ -1,5 +1,5 @@
 # Ideas COL
 ¿Quiénes somos?
-## Lina M. Ramírez
+## Lina Ramirez
 ## Meili Vanegas-Hernandez
 ## Juan Camilo Chaves
