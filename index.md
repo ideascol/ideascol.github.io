@@ -8,4 +8,4 @@
 ### Meili Vanegas-Hernandez
 ### Juan Camilo Chaves
 
-<a target="_blank" href="mailto:meilivh8@gmail.com,linaramirez0604@gmail.com?subject=Ideas COL: Email de contacto página web">Contáctanos</a>
+<a target="_blank" href="mailto:jc.chaves20@gmail.com,meilivh8@gmail.com,linaramirez0604@gmail.com?subject=Ideas COL: Email de contacto página web">Contáctanos</a>
