@@ -1,7 +1,3 @@
-## Nosotros
-
-<a target="_blank" href="mailto:jc.chaves20@gmail.com,meilivh8@gmail.com,linaramirez0604@gmail.com?subject=Ideas COL: Email de contacto página web">Contáctanos</a>
-
 ### [Juan Camilo Chaves Puentes](https://www.linkedin.com/in/juan-camilo-chaves-71123a17a/)
 
 | <img width='100px' src="https://pbs.twimg.com/profile_images/1188149035871461376/iFLA5O0I_400x400.jpg"/> |
@@ -20,3 +16,5 @@ Soy ingeniera de sistemas con maestría en análisis de datos. Disfruto, en gene
 ## Nuestros proyectos
 
 <a href="https://ideascol.github.io/covid19" target="_blank"><img src="https://ideascol.github.io/covid19/assets/favicon.png" alt="Covid-19" width="18"/> Covid-19: Seguimiento diario en Colombia</a>
+
+<a target="_blank" href="mailto:jc.chaves20@gmail.com,meilivh8@gmail.com,linaramirez0604@gmail.com?subject=Ideas COL: Email de contacto página web">Contáctanos</a>
