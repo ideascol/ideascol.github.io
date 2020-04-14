@@ -6,7 +6,7 @@ Soy economista con maestría en economía. Actualmente hago escucha social en re
 ### [Lina M. Ramirez Leguizamón](https://www.linkedin.com/in/lina-ramirez-leguizamon-b22888178/)
 
 | <img width='100px' src="https://pbs.twimg.com/profile_images/1197273651151867904/BCUAVA_h_400x400.jpg"/> |
-Soy economista con maestría en economía. Me interesa estudiar desde una perspectiva comportamental cómo el sistema económico y el político se interrelacionan afectando el desarrollo económico y social. |
+Soy economista con maestría en economía. Me interesa estudiar desde una perspectiva comportamental cómo el sistema económico y político se interrelacionan afectando el desarrollo económico y social. |
 
 ### [Meili Vanegas-Hernandez](https://mvanegas10.github.io/)
 
