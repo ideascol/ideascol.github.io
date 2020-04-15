@@ -6,7 +6,7 @@ Soy economista con maestría en economía. Me interesa estudiar desde una perspe
 ### [Meili Vanegas-Hernandez](https://mvanegas10.github.io/)
 
 | <img width='100px' src="https://media-exp1.licdn.com/dms/image/C4E03AQG9ISMLZXK5Wg/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=7PMC-GJY_pS_SYZ_KaLNYSRtHBj5To1JBGAHYQPcxag"/> |
-Soy ingeniera de sistemas con maestría en análisis de datos. Disfruto, en general, trabajar en ambientes multidisciplinarios creando espacios de generación de conocimiento a partir de datos. |
+Soy ingeniera de sistemas con maestría en analítica. Disfruto, en general, trabajar en ambientes multidisciplinarios creando espacios de generación de conocimiento a partir de datos. |
 
 ### [Juan Camilo Chaves Puentes](https://www.linkedin.com/in/juan-camilo-chaves-71123a17a/)
 
