@@ -3,9 +3,9 @@
 | <img width='100px' src="https://pbs.twimg.com/profile_images/1197273651151867904/BCUAVA_h_400x400.jpg"/> |
 Soy economista con maestría en economía. Me interesa estudiar desde una perspectiva comportamental cómo el sistema económico y  político se interrelacionan e inciden en el desarrollo económico y social. |
 
-### [Meili Vanegas-Hernandez](https://mvanegas10.github.io/)
+### [Meili Vanegas-Hernandez](https://meilivh.github.io/)
 
-| <img width='100px' src="https://media-exp1.licdn.com/dms/image/C4E03AQG9ISMLZXK5Wg/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=7PMC-GJY_pS_SYZ_KaLNYSRtHBj5To1JBGAHYQPcxag"/> |
+| <img width='100px' src="https://media.licdn.com/dms/image/v2/C4E03AQG9ISMLZXK5Wg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1585403248974?e=1736985600&v=beta&t=mBHZxZ1BQ1pZ6VIRvHqABXan4gBUP7iH0jky1GQgMjs"/> |
 Soy ingeniera de sistemas con maestría en analítica. Disfruto, en general, trabajar en ambientes multidisciplinarios creando espacios de generación de conocimiento a partir de datos. |
 
 ### [Juan Camilo Chaves Puentes](https://www.linkedin.com/in/juan-camilo-chaves-71123a17a/)
